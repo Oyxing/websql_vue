@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+.swiper-conter{
+    margin: 50% auto
+}
+.navber-success{
+    background-color: #cccccc;
+}
+.navbar{
+    border-radius: 0px;
+    border: 0px solid transparent; 
+    margin-bottom: 10px;
+}
+.navber-success1{
+    background-color: black;
+    border-color: #fff
+}
+.navbar-default .navbar-nav > li > a {
+  font-size: 16px;
+  color: #666;
+  height: 100%;
+}
+.active{
+background-color: #a99b9b;
+}
+.swipe-image{
+    width: 1000px;
+    margin: 0 auto;
+}
+.navbar-default .navbar-brand {
+  font-size: 30px;
+  color: skyblue;
+  line-height: 35px;
+}
+
+
